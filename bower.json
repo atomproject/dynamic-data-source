@@ -30,5 +30,6 @@
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.6",
     "t-table": "atomelements/t-table#^1.1.0",
     "t-input": "atomelements/t-input#^1.0.2"
-  }
+  },
+  "version": "1.0.0"
 }
