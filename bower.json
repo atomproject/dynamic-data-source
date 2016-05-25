@@ -22,7 +22,6 @@
     "tests"
   ],
   "dependencies": {
-    "iron-ajax": "polymerelements/iron-ajax#^1.2.0"
   },
   "devDependencies": {
     "webcomponentsjs": "^0.7.14",
