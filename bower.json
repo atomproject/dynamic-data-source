@@ -21,8 +21,7 @@
     "test",
     "tests"
   ],
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "webcomponentsjs": "^0.7.14",
     "t-shared-components": "atomelements/t-shared-components#^1.0.0",
@@ -30,5 +29,5 @@
     "t-table": "atomelements/t-table#^1.1.0",
     "t-input": "atomelements/t-input#^1.0.2"
   },
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
